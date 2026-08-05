@@ -1,0 +1,13 @@
+JavaScript - Exercício para entrga
+
+Utilize as caixas de diálogo: Alert, Prompt e Confirm da forma desejada. Utilizar arquivo JS externo.
+Disponibilizar no GitHub -> seuusuario/TAPWM/Atividade 3
+
+1) Media.html: leia o nome e as três notas de um aluno. Calcule e mostre a média aritmética. (parseFloat -> converte string para pronto flutuante)
+
+2) Operações.html: Receba dois números e calcule e mostre:
+-A soma dos dois;
+-A subtração do primeiro pelo segundo;
+-O produto dos dois;
+-A divisão do primeiro pelo segundo;
+-O resto da divisão do primeiro pelo segundo.

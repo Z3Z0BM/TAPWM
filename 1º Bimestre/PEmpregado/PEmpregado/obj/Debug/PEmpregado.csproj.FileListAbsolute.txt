@@ -1,0 +1,23 @@
+C:\Users\aluno\Downloads\PEmpregado\PEmpregado\bin\Debug\PEmpregado.exe.config
+C:\Users\aluno\Downloads\PEmpregado\PEmpregado\bin\Debug\PEmpregado.exe
+C:\Users\aluno\Downloads\PEmpregado\PEmpregado\bin\Debug\PEmpregado.pdb
+C:\Users\aluno\Downloads\PEmpregado\PEmpregado\obj\Debug\PEmpregado.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\PEmpregado\PEmpregado\obj\Debug\PEmpregado.frmMensalista.resources
+C:\Users\aluno\Downloads\PEmpregado\PEmpregado\obj\Debug\PEmpregado.Properties.Resources.resources
+C:\Users\aluno\Downloads\PEmpregado\PEmpregado\obj\Debug\PEmpregado.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\PEmpregado\PEmpregado\obj\Debug\PEmpregado.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\PEmpregado\PEmpregado\obj\Debug\PEmpregado.exe
+C:\Users\aluno\Downloads\PEmpregado\PEmpregado\obj\Debug\PEmpregado.pdb
+C:\Users\aluno\Documents\Enzo's Stuffs\Matérias\Técnicas Avançadas de Programação Web e Mobile\1º Bimestre\PEmpregado\PEmpregado\bin\Debug\PEmpregado.exe.config
+C:\Users\aluno\Documents\Enzo's Stuffs\Matérias\Técnicas Avançadas de Programação Web e Mobile\1º Bimestre\PEmpregado\PEmpregado\bin\Debug\PEmpregado.exe
+C:\Users\aluno\Documents\Enzo's Stuffs\Matérias\Técnicas Avançadas de Programação Web e Mobile\1º Bimestre\PEmpregado\PEmpregado\bin\Debug\PEmpregado.pdb
+C:\Users\aluno\Documents\Enzo's Stuffs\Matérias\Técnicas Avançadas de Programação Web e Mobile\1º Bimestre\PEmpregado\PEmpregado\obj\Debug\PEmpregado.csproj.AssemblyReference.cache
+C:\Users\aluno\Documents\Enzo's Stuffs\Matérias\Técnicas Avançadas de Programação Web e Mobile\1º Bimestre\PEmpregado\PEmpregado\obj\Debug\PEmpregado.exe.config
+C:\Users\aluno\Documents\Enzo's Stuffs\Matérias\Técnicas Avançadas de Programação Web e Mobile\1º Bimestre\PEmpregado\PEmpregado\obj\Debug\PEmpregado.frmHorista.resources
+C:\Users\aluno\Documents\Enzo's Stuffs\Matérias\Técnicas Avançadas de Programação Web e Mobile\1º Bimestre\PEmpregado\PEmpregado\obj\Debug\PEmpregado.frmMensalista.resources
+C:\Users\aluno\Documents\Enzo's Stuffs\Matérias\Técnicas Avançadas de Programação Web e Mobile\1º Bimestre\PEmpregado\PEmpregado\obj\Debug\PEmpregado.frmSelecao.resources
+C:\Users\aluno\Documents\Enzo's Stuffs\Matérias\Técnicas Avançadas de Programação Web e Mobile\1º Bimestre\PEmpregado\PEmpregado\obj\Debug\PEmpregado.Properties.Resources.resources
+C:\Users\aluno\Documents\Enzo's Stuffs\Matérias\Técnicas Avançadas de Programação Web e Mobile\1º Bimestre\PEmpregado\PEmpregado\obj\Debug\PEmpregado.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\Enzo's Stuffs\Matérias\Técnicas Avançadas de Programação Web e Mobile\1º Bimestre\PEmpregado\PEmpregado\obj\Debug\PEmpregado.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\Enzo's Stuffs\Matérias\Técnicas Avançadas de Programação Web e Mobile\1º Bimestre\PEmpregado\PEmpregado\obj\Debug\PEmpregado.exe
+C:\Users\aluno\Documents\Enzo's Stuffs\Matérias\Técnicas Avançadas de Programação Web e Mobile\1º Bimestre\PEmpregado\PEmpregado\obj\Debug\PEmpregado.pdb
