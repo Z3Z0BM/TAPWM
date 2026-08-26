@@ -1,1 +1,1 @@
-Arquivo Temporário!!!
+npm install prompt-sync
