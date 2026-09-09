@@ -6,7 +6,7 @@ rotaHome(app);
 let rotaContato = require('./app/routes/contato');
 rotaContato(app);
 
-let rotaInscricao = require('./app/routes/insricao');
+let rotaInscricao = require('./app/routes/inscricao');
 rotaInscricao(app);
 
 let rotaJogos = require('./app/routes/jogos');
