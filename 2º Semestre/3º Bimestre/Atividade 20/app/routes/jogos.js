@@ -2,6 +2,6 @@ module.exports = function(app)
 {
     app.get('/jogos', function(req, res)
     {
-        res.render("jogos");
+        res.render("evento/jogos");
     });
 }
